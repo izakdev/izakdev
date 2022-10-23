@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Isaac, I'm from Catalonia and I'm computer engineer.
+My name is Isaac, I'm from Catalonia and I'm a computer engineer.
 
 * I currently work in a Bank as Configuration Manager (Process Owner)
 
