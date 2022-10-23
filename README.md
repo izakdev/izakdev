@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Isaac, I'm from Catalonia and I'm computer engineer.
+
+* I currently work in a Bank as Configuration Manager (Process Owner)
+
+## Skills
+
+* Certfied in ITIL v4 and LeanIT
+* Studying a master's degree in Cybersecurity (UOC)
+* Home automation fan
+
+## Contact
+
+Find me at [website](https://izak.cat)
